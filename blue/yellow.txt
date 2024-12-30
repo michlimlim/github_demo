@@ -1,0 +1,1 @@
+This is the yellow file inside the blue directory.
